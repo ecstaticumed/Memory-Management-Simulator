@@ -21,4 +21,8 @@ Technologies
 
 How to Run
 ```bash
-python DSA_Project_Python.py
+python memory_simulator.py
+
+Output Example
+![Memory Layout Output](screenshot.png)
+
