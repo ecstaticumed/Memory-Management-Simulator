@@ -55,7 +55,7 @@ This project includes a complete **Software Requirements Specification (SRS)** d
 - Class Diagram  
 
 📄 **SRS File:**  
-
+Software Requirements Specification(SRS).pdf
 ---
 
 ## ▶️ How to Run
@@ -75,17 +75,18 @@ The simulator displays the current memory layout after each operation.
 ```
 🎓 Academic Use
 
-This project is suitable for:
+- This project is suitable for:
 
-Data Structures & Algorithms course
+- Data Structures & Algorithms course
 
-Linked List implementation practice
+- Linked List implementation practice
 
-Operating System memory management concepts
+- Operating System memory management concepts
 
-SRS & UML documentation demonstration
+- SRS & UML documentation demonstration
 
 👤 Author
 
 Umed Ali
 BS Cyber Security
+
